@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">University Selector</string>
+
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Change the following strings as required -->
+    <string name="back4app_app_id">RvbYYpJH2RdPZN2yjXEeQwq0a4lPnQGf7buiKKtm</string>
+    <string name="back4app_client_key">2XkfvkiRRmSaMBvPhAIx3EWF236dxc5fmkxdHBHR</string>
+    <string name="title_activity_login">login</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in_short">sign in</string>
+    <string name="action_sign_in">Sign In</string>
+    <string-array name="climatedropdown">
+        <item>Normal</item>
+        <item>Hot</item>
+        <item>Cold</item>
+
+    </string-array>
+    <string-array name="univdropdown">
+        <item>Public</item>
+        <item>Private</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+</resources>
